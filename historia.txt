@@ -12,3 +12,5 @@ estoy probando git
 4 naturaleza
 
 5 amor
+
+6 guerra
