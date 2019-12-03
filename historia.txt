@@ -1,5 +1,5 @@
+Hola soy carlos andres garcia 
 
-|Hola soy carlos andres garcia 
 
 estoy probando git
 
@@ -8,3 +8,5 @@ estoy probando git
 2. Hoy hablaremos de su historia 
 
 3. vida
+
+4 naturaleza
